@@ -1,0 +1,76 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "nome": "Principal",
+      "email": "principal@gmail.com"
+    },
+    {
+      "id": "2",
+      "nome": "Adm",
+      "email": "Adm@gmail.com"
+    },
+    {
+      "id": "3",
+      "nome": "Gerente",
+      "email": "gerente@gmail.com"
+    },
+    {
+      "id": "33e5",
+      "nome": "Cristiano",
+      "email": "cristiano@gmail.com"
+    },
+    {
+      "id": "e809",
+      "nome": "Neymar",
+      "email": "neymar@email.com"
+    },
+    {
+      "id": "b972",
+      "nome": "nova marca",
+      "email": "cris@gmail.com"
+    }
+  ],
+  "livros": [
+    {
+      "titulo": "Simba",
+      "autor": "Gregory",
+      "genero": "Drama",
+      "status": "Lido",
+      "usuario": "Neymar",
+      "id": "3f53"
+    },
+    {
+      "id": "f17f",
+      "titulo": "Sim",
+      "autor": "GG",
+      "genero": "Ficção",
+      "status": "Lendo",
+      "usuario": "Principal"
+    },
+    {
+      "id": "f6c8",
+      "titulo": "Sim",
+      "autor": "GG",
+      "genero": "Fantasia",
+      "status": "Lido",
+      "usuario": "Adm"
+    },
+    {
+      "id": "0d7d",
+      "titulo": "Sim",
+      "autor": "GG",
+      "genero": "Conto",
+      "status": "Quero ler",
+      "usuario": "Gerente"
+    },
+    {
+      "titulo": "Simba 2",
+      "autor": "GG",
+      "genero": "Romance",
+      "status": "Lido",
+      "usuario": "Neymar",
+      "id": "740c"
+    }
+  ]
+}
